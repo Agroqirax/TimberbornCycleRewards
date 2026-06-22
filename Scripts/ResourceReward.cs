@@ -61,7 +61,7 @@ namespace Agroqirax.Rewards
                 return;
             }
 
-            inventory.Inventory.GiveIgnoringCapacity(new GoodAmount(_goodId, _amount));
+            inventory.Inventory.GiveExistingIgnoringCapacity(new GoodAmount(_goodId, _amount));
             Debug.Log($"[CycleReward] Gave {_amount}x {_goodId} to '{district.DistrictName}'.");
         }
 

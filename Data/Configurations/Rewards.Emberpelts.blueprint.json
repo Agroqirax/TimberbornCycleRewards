@@ -199,6 +199,32 @@
         }
       },
       {
+        "Type": "Resource",
+        "GoodId": "Explosives",
+        "Amount": 1,
+        "Weight": 1,
+        "CycleCurve": {
+          "Keyframes": [
+            { "Value": 4, "Multiplier": 0.1 },
+            { "Value": 8, "Multiplier": 1 },
+            { "Value": 15, "Multiplier": 0.1 }
+          ]
+        }
+      },
+      {
+        "Type": "Resource",
+        "GoodId": "Explosives",
+        "Amount": 5,
+        "Weight": 1,
+        "CycleCurve": {
+          "Keyframes": [
+            { "Value": 6, "Multiplier": 0.1 },
+            { "Value": 10, "Multiplier": 1 },
+            { "Value": 17, "Multiplier": 0.1 }
+          ]
+        }
+      },
+      {
         "Type": "Science",
         "Amount": 50,
         "Weight": 3,

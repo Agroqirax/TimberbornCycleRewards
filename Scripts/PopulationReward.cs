@@ -113,10 +113,10 @@ namespace Agroqirax.Rewards
                         _botFactory.Create(spawnPos);
                         break;
                     case PopulationCharacterTarget.Child:
-                        _beaverFactory.CreateNewbornChild(spawnPos);
+                        _beaverFactory.CreateNewbornChild(spawnPos, null);
                         break;
                     default:
-                        _beaverFactory.CreateNewbornAdult(spawnPos);
+                        _beaverFactory.CreateNewbornAdult(spawnPos, null);
                         break;
                 }
             }
