@@ -63,13 +63,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Weight curves
 
-[unreleased]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v2.0.0...HEAD
-[0.10]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.9...v0.10
-[0.9]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.8...v0.9
-[0.8]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.7...v0.8
-[0.7]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.5...v0.7
-[0.6]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.5...v0.7
-[0.5]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.4...v0.5
-[0.4]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.2...v0.4
-[0.3]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.2...v0.4
-[0.2]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket//releases/tag/v0.2
+[unreleased]: https://github.com/agroqirax/TimberbornCycleRewards/compare/v2.0.0...HEAD
+[0.10]: https://github.com/agroqirax/TimberbornCycleRewards/compare/v0.9...v0.10
+[0.9]: https://github.com/agroqirax/TimberbornCycleRewards/compare/v0.8...v0.9
+[0.8]: https://github.com/agroqirax/TimberbornCycleRewards/compare/v0.7...v0.8
+[0.7]: https://github.com/agroqirax/TimberbornCycleRewards/compare/v0.5...v0.7
+[0.6]: https://github.com/agroqirax/TimberbornCycleRewards/compare/v0.5...v0.7
+[0.5]: https://github.com/agroqirax/TimberbornCycleRewards/compare/v0.4...v0.5
+[0.4]: https://github.com/agroqirax/TimberbornCycleRewards/compare/v0.2...v0.4
+[0.3]: https://github.com/agroqirax/TimberbornCycleRewards/compare/v0.2...v0.4
+[0.2]: https://github.com/agroqirax/TimberbornCycleRewards//releases/tag/v0.2
