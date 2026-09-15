@@ -113,10 +113,13 @@ namespace Agroqirax.Rewards
                         _botFactory.Create(spawnPos);
                         break;
                     case PopulationCharacterTarget.Child:
-                        _beaverFactory.CreateNewbornChild(spawnPos, null);
+                        // BeaverFactory always calls AddInitComponent(initComponent) on this,
+                        // and BaseInstantiator.TryGetComponentsHash calls .GetType() on every
+                        // entry in that list, so a null here throws a NullReferenceException.
+                        _beaverFactory.CreateNewbornChild(spawnPos, new object());
                         break;
                     default:
-                        _beaverFactory.CreateNewbornAdult(spawnPos, null);
+                        _beaverFactory.CreateNewbornAdult(spawnPos, new object());
                         break;
                 }
             }

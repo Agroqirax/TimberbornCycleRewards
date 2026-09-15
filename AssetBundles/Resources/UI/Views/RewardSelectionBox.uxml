@@ -6,7 +6,7 @@
     <Style src="/Assets/Resources/UI/Views/Common/CommonStyle.uss" />
     <Style src="/Assets/Resources/UI/Views/Common/CommonMiscStyle.uss" />
     <ui:VisualElement name="RewardSelectionWrapper" class="grow-centered">
-        <Style src="/Assets/Mods/Rewards/AssetBundles/Resources/UI/Styles/RewardStyle.uss" />
+        <Style src="/Assets/Mods/TimberbornCycleRewards/AssetBundles/Resources/UI/Styles/RewardStyle.uss" />
         <cui:NineSliceVisualElement name="RewardSelectionBox" class="options-box sliced-border">
             <ui:Label name="Title" text="Choose a Cycle Reward" class="reward-selection__title" />
             <ui:VisualElement name="RewardButtons" />
